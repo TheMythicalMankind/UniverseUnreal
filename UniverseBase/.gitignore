@@ -157,4 +157,5 @@ Saved/
 # Ignore Binaries
 Binaries
 
-
+# Ignore Developers
+Content/Developers
